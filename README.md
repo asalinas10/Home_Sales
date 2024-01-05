@@ -24,11 +24,11 @@ Answer the following questions using SparkSQL:
 
     - What is the average price of a home for each year that has three bedrooms, three bathrooms, two floors, and is greater than or equal to 2,000 square feet? Round off your answer to two decimal places.
 
-
+![Alt text](<Screen Shot 2024-01-04 at 11.57.06 PM.png>)
 
     - What is the "view" rating for homes costing more than or equal to $350,000? Determine the run time for this query, and round off your answer to two decimal places.
 
-![Alt text](<Screen Shot 2024-01-04 at 11.57.06 PM.png>)
+![Alt text](<Screen Shot 2024-01-04 at 11.59.05 PM.png>)
 
 Cache your temporary table home_sales.
 
