@@ -34,7 +34,11 @@ Cache your temporary table home_sales.
 
 Check if your temporary table is cached.
 
+![Alt text](<Screen Shot 2024-01-05 at 12.00.27 AM.png>)
+
 Using the cached data, run the query that filters out the view ratings with an average price of greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
+
+![Alt text](<Screen Shot 2024-01-05 at 12.00.58 AM.png>)
 
 Partition by the "date_built" field on the formatted parquet home sales data.
 
@@ -42,8 +46,10 @@ Create a temporary table for the parquet data.
 
 Run the query that filters out the view ratings with an average price of greater than or equal to $350,000. Determine the runtime and compare it to uncached runtime.
 
+![Alt text](<Screen Shot 2024-01-05 at 12.01.24 AM.png>)
+
 Uncache the home_sales temporary table.
 
 Verify that the home_sales temporary table is uncached using PySpark.
 
-Download your Home_Sales.ipynb file and upload it into your "Home_Sales" GitHub repository.
+![Alt text](<Screen Shot 2024-01-05 at 12.02.06 AM.png>)
